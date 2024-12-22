@@ -1,7 +1,6 @@
-```markdown
-# Video Merging and Resizing Script
+# AutoVideoGen
 
-This script allows you to merge multiple video clips into a single video, resize them to a specified resolution, and overlay background audio. It is ideal for creating a single cohesive video from multiple video files while maintaining high-quality output.
+These scripts allows you to merge multiple video clips into a single video, resize them to a specified resolution, and overlay background audio. It is ideal for creating a single cohesive video from multiple video files while maintaining high-quality output.
 
 ---
 
